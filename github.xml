@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="0b1793c9-c3a9-4348-bffe-825682d0e021" name="mingcli">
+      <server host="github.corp.ebay.com" />
+    </account>
+  </component>
+</application>
