@@ -1,13 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
-      <mapping ext="connect-timeout" type="PLAIN_TEXT" />
       <mapping ext="groups" type="PLAIN_TEXT" />
+      <mapping ext="connect-timeout" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="timeout" type="PLAIN_TEXT" />
       <mapping ext="password" type="PLAIN_TEXT" />
