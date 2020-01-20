@@ -1,7 +1,5 @@
 <keymap version="1" name="Mac OS X Mingchi" parent="Mac OS X">
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
-  </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateMavenToolWindow">
@@ -9,6 +7,9 @@
   </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
