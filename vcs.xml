@@ -58,6 +58,10 @@
           <option name="url" value="git@github.corp.ebay.com:ecg-kijiji-ca/covisitation-importer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.corp.ebay.com:ecg-kijiji-ca/homefeed-post-processor-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/kijijica" />
