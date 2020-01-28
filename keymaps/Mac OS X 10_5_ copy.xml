@@ -1,9 +1,0 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateMavenProjectsToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-</keymap>
