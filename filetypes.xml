@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
