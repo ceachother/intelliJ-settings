@@ -6,6 +6,7 @@
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
+      <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
       <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
