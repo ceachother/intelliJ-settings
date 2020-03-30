@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="review_delay_in_minute" type="PLAIN_TEXT" />
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="keytab" type="PLAIN_TEXT" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
