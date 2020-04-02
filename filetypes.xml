@@ -7,6 +7,7 @@
       <mapping pattern="keytab" type="PLAIN_TEXT" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
+      <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
       <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
       <mapping pattern="receiver" type="PLAIN_TEXT" />
