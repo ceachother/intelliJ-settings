@@ -11,6 +11,7 @@
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_in_minute" type="PLAIN_TEXT" />
       <mapping pattern="receiver" type="PLAIN_TEXT" />
+      <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
       <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
