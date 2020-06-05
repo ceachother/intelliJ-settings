@@ -15,6 +15,7 @@
       <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
       <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
+      <mapping ext="connectvialoadbalancer" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
       <mapping ext="connect-timeout" type="PLAIN_TEXT" />
       <mapping ext="groups" type="PLAIN_TEXT" />
