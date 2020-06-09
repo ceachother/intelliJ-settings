@@ -11,5 +11,6 @@
     <mask>*.less</mask>
     <mask>.java</mask>
     <mask>*.java</mask>
+    <mask>*.tag</mask>
   </component>
 </application>
