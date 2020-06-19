@@ -29,6 +29,7 @@
       <mapping ext="connecttimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="reduce-icas" type="PLAIN_TEXT" />
       <mapping ext="timout" type="PLAIN_TEXT" />
+      <mapping ext="aes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
