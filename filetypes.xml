@@ -7,6 +7,7 @@
       <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
+      <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_in_minute" type="PLAIN_TEXT" />
