@@ -22,8 +22,8 @@
       <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
       <mapping ext="connectvialoadbalancer" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
-      <mapping ext="groups" type="PLAIN_TEXT" />
       <mapping ext="connect-timeout" type="PLAIN_TEXT" />
+      <mapping ext="groups" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="readtimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="executiontimeout" type="PLAIN_TEXT" />
