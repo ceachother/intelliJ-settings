@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>ResponseDefinitionBuilder.withBody (com.github.tomakehurst.wiremock.client)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("withBody").withParameters("java.lang.String").definedInClass("com.github.tomakehurst.wiremock.client.ResponseDefinitionBuilder"))]]></place>
+    </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>String (java.lang)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.String").definedInClass("java.lang.String"))]]></place>
