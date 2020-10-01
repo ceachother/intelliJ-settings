@@ -5,6 +5,7 @@
       <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
+      <mapping pattern="transaction_detail_pool_size" type="PLAIN_TEXT" />
       <mapping pattern="consul_host" type="PLAIN_TEXT" />
       <mapping pattern="keytab" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
