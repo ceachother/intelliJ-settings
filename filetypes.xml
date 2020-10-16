@@ -34,6 +34,7 @@
       <mapping ext="password" type="PLAIN_TEXT" />
       <mapping ext="groups" type="PLAIN_TEXT" />
       <mapping ext="timeout" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="connecttimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="connect-timeout" type="PLAIN_TEXT" />
       <mapping ext="all-reduce-commercial-listings" type="PLAIN_TEXT" />
