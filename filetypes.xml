@@ -22,6 +22,7 @@
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
       <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
       <mapping pattern="delete_ad_flow_flag" type="PLAIN_TEXT" />
+      <mapping pattern="notificatoin_batch_wait_interval" type="PLAIN_TEXT" />
       <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
