@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
+      <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
       <mapping pattern="transaction_detail_pool_size" type="PLAIN_TEXT" />
       <mapping pattern="consul_host" type="PLAIN_TEXT" />
@@ -18,6 +18,7 @@
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="sentry_dsn" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
+      <mapping pattern="2020-10-29 Congratulatory email for users who complete their transactions on Kijiji" type="PLAIN_TEXT" />
       <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
       <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
