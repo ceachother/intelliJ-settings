@@ -1,31 +1,35 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="receiver" type="PLAIN_TEXT" />
+      <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
+      <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
+      <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
+      <mapping pattern="smtp_host" type="PLAIN_TEXT" />
+      <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
+      <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
+      <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
+      <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
+      <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
+      <mapping pattern="delete_ad_flow_flag" type="PLAIN_TEXT" />
+      <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
+      <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
-      <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
       <mapping pattern="transaction_detail_pool_size" type="PLAIN_TEXT" />
       <mapping pattern="consul_host" type="PLAIN_TEXT" />
       <mapping pattern="keytab" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_in_minute" type="PLAIN_TEXT" />
-      <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
-      <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
-      <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="itemfetch_retries" type="PLAIN_TEXT" />
-      <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
-      <mapping pattern="smtp_host" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_keyspace" type="PLAIN_TEXT" />
       <mapping pattern="sentry_dsn" type="PLAIN_TEXT" />
-      <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
+      <mapping pattern="itemfetch_retries" type="PLAIN_TEXT" />
       <mapping pattern="2020-10-29 Congratulatory email for users who complete their transactions on Kijiji" type="PLAIN_TEXT" />
-      <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
-      <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
-      <mapping pattern="delete_ad_flow_flag" type="PLAIN_TEXT" />
-      <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_port" type="PLAIN_TEXT" />
       <mapping pattern="notificatoin_batch_wait_interval" type="PLAIN_TEXT" />
-      <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
       <mapping ext="readtimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="executiontimeout" type="PLAIN_TEXT" />
