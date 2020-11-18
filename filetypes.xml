@@ -36,6 +36,7 @@
       <mapping ext="timout" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
       <mapping ext="reduce-icas" type="PLAIN_TEXT" />
+      <mapping ext="time" type="PLAIN_TEXT" />
       <mapping ext="aes" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="password" type="PLAIN_TEXT" />
