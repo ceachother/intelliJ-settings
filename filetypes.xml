@@ -17,6 +17,7 @@
       <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="region_to_environment_mapping" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
       <mapping pattern="transaction_detail_pool_size" type="PLAIN_TEXT" />
