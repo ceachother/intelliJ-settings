@@ -32,6 +32,7 @@
       <mapping pattern="2020-10-29 Congratulatory email for users who complete their transactions on Kijiji" type="PLAIN_TEXT" />
       <mapping pattern="move_undelete_ad_retries" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_port" type="PLAIN_TEXT" />
+      <mapping pattern="synonyms" type="PLAIN_TEXT" />
       <mapping pattern="notificatoin_batch_wait_interval" type="PLAIN_TEXT" />
       <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
       <mapping ext="readtimeoutmillis" type="PLAIN_TEXT" />
