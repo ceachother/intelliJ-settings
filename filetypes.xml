@@ -19,6 +19,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="document_error_count_threshold" type="PLAIN_TEXT" />
       <mapping pattern="region_to_environment_mapping" type="PLAIN_TEXT" />
+      <mapping pattern="wait_interval_between_batches" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
       <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
       <mapping pattern="transaction_detail_pool_size" type="PLAIN_TEXT" />
