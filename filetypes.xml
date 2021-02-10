@@ -14,6 +14,7 @@
       <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
       <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
+      <mapping pattern="batch_size" type="PLAIN_TEXT" />
       <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
       <mapping pattern="delete_ad_flow_flag" type="PLAIN_TEXT" />
       <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
