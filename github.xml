@@ -1,6 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account id="ada9c264-9104-4e6f-8674-5fc450f97639" name="mingcli">
+    <account id="5b2e058d-97ab-491a-b540-3d91dd7e7096" name="mingcli">
       <server useHttp="false" host="github.es.ecg.tools" />
     </account>
   </component>
