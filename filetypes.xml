@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="redis_client_name" type="PLAIN_TEXT" />
       <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="job_end_hour" type="PLAIN_TEXT" />
       <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
       <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
+      <mapping pattern="redis_host_port" type="PLAIN_TEXT" />
       <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
@@ -12,6 +14,7 @@
       <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
       <mapping pattern="contentful_space_id" type="PLAIN_TEXT" />
+      <mapping pattern="redis_landing_page_database_index" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
       <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
