@@ -13,6 +13,7 @@
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
+      <mapping pattern="central_service_url_base_pre_prod" type="PLAIN_TEXT" />
       <mapping pattern="contentful_space_id" type="PLAIN_TEXT" />
       <mapping pattern="redis_landing_page_database_index" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
