@@ -58,6 +58,7 @@
       <mapping pattern="notificatoin_batch_wait_interval" type="PLAIN_TEXT" />
       <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
       <mapping pattern="contentful_hom_sweet_home_lp_content_id" type="PLAIN_TEXT" />
+      <mapping ext="url-base" type="PLAIN_TEXT" />
       <mapping ext="readtimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="executiontimeout" type="PLAIN_TEXT" />
       <mapping ext="timout" type="PLAIN_TEXT" />
