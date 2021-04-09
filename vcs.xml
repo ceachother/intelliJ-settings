@@ -170,9 +170,17 @@
           <option name="url" value="git@github.es.ecg.tools:ecg-kijiji-ca/autos-financing-job.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.es.ecg.tools:ecg-common/ecg-feed-processor-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.es.ecg.tools:ecg-kijiji-ca/personalization-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/kijijica" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/ecg-kijiji-ca" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
