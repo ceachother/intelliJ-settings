@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -14,8 +14,8 @@
       <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
       <mapping pattern="redis_host_port" type="PLAIN_TEXT" />
       <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
@@ -25,8 +25,8 @@
       <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
       <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
-      <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
       <mapping pattern="batch_size" type="PLAIN_TEXT" />
+      <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
       <mapping pattern="delete_ad_flow_flag" type="PLAIN_TEXT" />
       <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
       <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
@@ -78,7 +78,7 @@
       <mapping ext="retry" type="PLAIN_TEXT" />
       <mapping ext="connecttimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="all-reduce-commercial-listings" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="scala" approved="true" type="JAVA" />
     </extensionMap>
   </component>
