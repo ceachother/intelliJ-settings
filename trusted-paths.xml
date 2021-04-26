@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/dev/ecg-common" />
         <option value="$USER_HOME$/dev/ecg-kijiji-ca" />
+        <option value="$USER_HOME$/dev/kijijica" />
       </list>
     </option>
   </component>
