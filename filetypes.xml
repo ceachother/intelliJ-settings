@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="mim_recent_search_username" type="AUTO_DETECTED" />
+      <mapping pattern="mim_recent_search_password" type="AUTO_DETECTED" />
+      <mapping pattern="mim_recent_search_endpoint" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_full_timeout" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_timeout" type="AUTO_DETECTED" />
       <removed_mapping ext="csv" type="CSV" />
