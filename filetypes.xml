@@ -6,6 +6,9 @@
       <mapping pattern="mim_recent_search_endpoint" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_full_timeout" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_timeout" type="AUTO_DETECTED" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -80,9 +83,8 @@
       <mapping ext="retry" type="PLAIN_TEXT" />
       <mapping ext="connecttimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="all-reduce-commercial-listings" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="tsv" type="TSV" />
       <removed_mapping ext="scala" approved="true" type="JAVA" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
