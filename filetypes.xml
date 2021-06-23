@@ -6,6 +6,7 @@
       <mapping pattern="mim_recent_search_endpoint" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_full_timeout" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_timeout" type="AUTO_DETECTED" />
+      <mapping pattern="enable_cache" type="AUTO_DETECTED" />
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="tsv" type="CSV/TSV" />
