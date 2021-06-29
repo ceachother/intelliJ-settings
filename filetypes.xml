@@ -7,9 +7,9 @@
       <mapping pattern="ctm_admin_http_full_timeout" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_timeout" type="AUTO_DETECTED" />
       <mapping pattern="enable_cache" type="AUTO_DETECTED" />
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -20,8 +20,8 @@
       <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
       <mapping pattern="redis_host_port" type="PLAIN_TEXT" />
       <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
@@ -84,7 +84,7 @@
       <mapping ext="retry" type="PLAIN_TEXT" />
       <mapping ext="connecttimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="all-reduce-commercial-listings" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="scala" approved="true" type="JAVA" />
     </extensionMap>
   </component>
