@@ -1,12 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="favourites_api_socket_timeout" type="AUTO_DETECTED" />
       <mapping pattern="mim_recent_search_username" type="AUTO_DETECTED" />
       <mapping pattern="mim_recent_search_password" type="AUTO_DETECTED" />
       <mapping pattern="mim_recent_search_endpoint" type="AUTO_DETECTED" />
+      <mapping pattern="favourites_api_client_http_socketTimeout" type="AUTO_DETECTED" />
+      <mapping pattern="similartofavourite_max_number_of_favourites" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_full_timeout" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_timeout" type="AUTO_DETECTED" />
       <mapping pattern="enable_cache" type="AUTO_DETECTED" />
+      <mapping pattern="favourites_api_client_http_connectTimeout" type="AUTO_DETECTED" />
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="tsv" type="CSV/TSV" />
