@@ -12,6 +12,7 @@
       <mapping pattern="ctm_admin_http_timeout" type="AUTO_DETECTED" />
       <mapping pattern="enable_cache" type="AUTO_DETECTED" />
       <mapping pattern="favourites_api_client_http_connectTimeout" type="AUTO_DETECTED" />
+      <mapping pattern="SIMILAR_TO_FAVOURITES_POSITIONS" type="AUTO_DETECTED" />
       <mapping ext="csv" type="CSV" />
       <removed_mapping ext="tsv" type="CSV/TSV" />
       <removed_mapping ext="csv" type="CSV/TSV" />
