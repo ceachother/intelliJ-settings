@@ -13,8 +13,6 @@
       <mapping pattern="enable_cache" type="AUTO_DETECTED" />
       <mapping pattern="favourites_api_client_http_connectTimeout" type="AUTO_DETECTED" />
       <mapping pattern="SIMILAR_TO_FAVOURITES_POSITIONS" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -25,8 +23,8 @@
       <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
       <mapping pattern="redis_host_port" type="PLAIN_TEXT" />
       <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
