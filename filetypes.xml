@@ -71,6 +71,7 @@
       <mapping ext="readtimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="executiontimeout" type="PLAIN_TEXT" />
       <mapping ext="timout" type="PLAIN_TEXT" />
+      <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="retries" type="PLAIN_TEXT" />
       <mapping ext="reduce-icas" type="PLAIN_TEXT" />
       <mapping ext="dsn" type="PLAIN_TEXT" />
@@ -85,6 +86,7 @@
       <mapping ext="connecttimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="connect-timeout" type="PLAIN_TEXT" />
       <mapping ext="all-reduce-commercial-listings" type="PLAIN_TEXT" />
+      <mapping ext="fr" type="PLAIN_TEXT" />
       <mapping ext="requests" type="PLAIN_TEXT" />
       <mapping ext="connectvialoadbalancer" type="PLAIN_TEXT" />
       <removed_mapping ext="scala" approved="true" type="JAVA" />
