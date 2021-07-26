@@ -23,8 +23,8 @@
       <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
       <mapping pattern="redis_host_port" type="PLAIN_TEXT" />
       <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
+      <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
       <mapping pattern="smtp_host" type="PLAIN_TEXT" />
       <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
@@ -54,8 +54,8 @@
       <mapping pattern="contentful_environment" type="PLAIN_TEXT" />
       <mapping pattern="review_delay_in_minute" type="PLAIN_TEXT" />
       <mapping pattern="database_liquibase_password" type="PLAIN_TEXT" />
-      <mapping pattern="token_refresh_interval" type="PLAIN_TEXT" />
       <mapping pattern="contentful_graphql_api_host" type="PLAIN_TEXT" />
+      <mapping pattern="token_refresh_interval" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_keyspace" type="PLAIN_TEXT" />
       <mapping pattern="sentry_dsn" type="PLAIN_TEXT" />
       <mapping pattern="itemfetch_retries" type="PLAIN_TEXT" />
