@@ -186,6 +186,10 @@
           <option name="url" value="git@github.es.ecg.tools:ecg-kijiji-ca/data-pipeline-active-ads-job.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.es.ecg.tools:ecg-kijiji-ca/data-pipeline-coordinator-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/ecg-kijiji-ca" />
