@@ -1,73 +1,73 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="favourites_api_socket_timeout" type="AUTO_DETECTED" />
-      <mapping pattern="mim_recent_search_username" type="AUTO_DETECTED" />
-      <mapping pattern="contentful_back_to_school_lp_content_id" type="AUTO_DETECTED" />
-      <mapping pattern="mim_recent_search_password" type="AUTO_DETECTED" />
-      <mapping pattern="max_number_of_favourites" type="AUTO_DETECTED" />
+      <mapping pattern="favourites_api_client_http_connectTimeout" type="AUTO_DETECTED" />
+      <mapping pattern="enable_cache" type="AUTO_DETECTED" />
       <mapping pattern="mim_recent_search_endpoint" type="AUTO_DETECTED" />
       <mapping pattern="favourites_api_client_http_socketTimeout" type="AUTO_DETECTED" />
-      <mapping pattern="similartofavourite_max_number_of_favourites" type="AUTO_DETECTED" />
-      <mapping pattern="ctm_admin_http_full_timeout" type="AUTO_DETECTED" />
       <mapping pattern="ctm_admin_http_timeout" type="AUTO_DETECTED" />
-      <mapping pattern="enable_cache" type="AUTO_DETECTED" />
-      <mapping pattern="favourites_api_client_http_connectTimeout" type="AUTO_DETECTED" />
+      <mapping pattern="contentful_back_to_school_lp_content_id" type="AUTO_DETECTED" />
+      <mapping pattern="ctm_admin_http_full_timeout" type="AUTO_DETECTED" />
+      <mapping pattern="favourites_api_socket_timeout" type="AUTO_DETECTED" />
+      <mapping pattern="max_number_of_favourites" type="AUTO_DETECTED" />
+      <mapping pattern="mim_recent_search_username" type="AUTO_DETECTED" />
+      <mapping pattern="similartofavourite_max_number_of_favourites" type="AUTO_DETECTED" />
       <mapping pattern="SIMILAR_TO_FAVOURITES_POSITIONS" type="AUTO_DETECTED" />
+      <mapping pattern="mim_recent_search_password" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="redis_client_name" type="PLAIN_TEXT" />
-      <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="job_end_hour" type="PLAIN_TEXT" />
-      <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
-      <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
-      <mapping pattern="redis_host_port" type="PLAIN_TEXT" />
-      <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
-      <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
-      <mapping pattern="smtp_host" type="PLAIN_TEXT" />
-      <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
-      <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
       <mapping pattern="central_service_url_base_pre_prod" type="PLAIN_TEXT" />
-      <mapping pattern="contentful_space_id" type="PLAIN_TEXT" />
-      <mapping pattern="redis_landing_page_database_index" type="PLAIN_TEXT" />
-      <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
-      <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
-      <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
-      <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
-      <mapping pattern="batch_size" type="PLAIN_TEXT" />
-      <mapping pattern="delete_ad_flow_flag" type="PLAIN_TEXT" />
-      <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
-      <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
-      <mapping pattern="contentful_access_token" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="document_error_count_threshold" type="PLAIN_TEXT" />
-      <mapping pattern="region_to_environment_mapping" type="PLAIN_TEXT" />
-      <mapping pattern="ftp_pass" type="PLAIN_TEXT" />
-      <mapping pattern="wait_interval_between_batches" type="PLAIN_TEXT" />
       <mapping pattern="consul_port" type="PLAIN_TEXT" />
-      <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
-      <mapping pattern="transaction_detail_pool_size" type="PLAIN_TEXT" />
-      <mapping pattern="consul_host" type="PLAIN_TEXT" />
-      <mapping pattern="keytab" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern="contentful_environment" type="PLAIN_TEXT" />
-      <mapping pattern="review_delay_in_minute" type="PLAIN_TEXT" />
-      <mapping pattern="database_liquibase_password" type="PLAIN_TEXT" />
-      <mapping pattern="contentful_graphql_api_host" type="PLAIN_TEXT" />
-      <mapping pattern="token_refresh_interval" type="PLAIN_TEXT" />
-      <mapping pattern="cassandra_keyspace" type="PLAIN_TEXT" />
-      <mapping pattern="sentry_dsn" type="PLAIN_TEXT" />
-      <mapping pattern="itemfetch_retries" type="PLAIN_TEXT" />
-      <mapping pattern="2020-10-29 Congratulatory email for users who complete their transactions on Kijiji" type="PLAIN_TEXT" />
-      <mapping pattern="move_undelete_ad_retries" type="PLAIN_TEXT" />
-      <mapping pattern="cassandra_port" type="PLAIN_TEXT" />
+      <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
+      <mapping pattern="receiver" type="PLAIN_TEXT" />
+      <mapping pattern="wait_interval_between_batches" type="PLAIN_TEXT" />
       <mapping pattern="synonyms" type="PLAIN_TEXT" />
-      <mapping pattern=".public_key" type="PLAIN_TEXT" />
-      <mapping pattern="notificatoin_batch_wait_interval" type="PLAIN_TEXT" />
-      <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
       <mapping pattern="contentful_hom_sweet_home_lp_content_id" type="PLAIN_TEXT" />
+      <mapping pattern="sentry_dsn" type="PLAIN_TEXT" />
+      <mapping pattern="consul_host" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_port" type="PLAIN_TEXT" />
+      <mapping pattern="swift_auth_password" type="PLAIN_TEXT" />
+      <mapping pattern="cassandra_keyspace" type="PLAIN_TEXT" />
+      <mapping pattern="contentful_space_id" type="PLAIN_TEXT" />
+      <mapping pattern="contentful_access_token" type="PLAIN_TEXT" />
+      <mapping pattern="document_error_count_threshold" type="PLAIN_TEXT" />
+      <mapping pattern="2020-10-29 Congratulatory email for users who complete their transactions on Kijiji" type="PLAIN_TEXT" />
+      <mapping pattern="itemfetch_connect_timeout" type="PLAIN_TEXT" />
+      <mapping pattern="box_batch_ro" type="PLAIN_TEXT" />
+      <mapping pattern="ftp_pass" type="PLAIN_TEXT" />
+      <mapping pattern="region_to_environment_mapping" type="PLAIN_TEXT" />
+      <mapping pattern="itemfetch_retries" type="PLAIN_TEXT" />
+      <mapping pattern="review_delay_toggle" type="PLAIN_TEXT" />
+      <mapping pattern="wait_period_to_confirm_trade" type="PLAIN_TEXT" />
+      <mapping pattern="delete_ad_flow_flag" type="PLAIN_TEXT" />
+      <mapping pattern="redis_landing_page_database_index" type="PLAIN_TEXT" />
+      <mapping pattern="database_liquibase_password" type="PLAIN_TEXT" />
+      <mapping pattern="TOGGLE_SEND_TO_DATAPIPELINE" type="PLAIN_TEXT" />
+      <mapping pattern="redis_host_port" type="PLAIN_TEXT" />
+      <mapping pattern="keytab" type="PLAIN_TEXT" />
+      <mapping pattern="smtp_host" type="PLAIN_TEXT" />
+      <mapping pattern="contentful_graphql_api_host" type="PLAIN_TEXT" />
+      <mapping pattern=".public_key" type="PLAIN_TEXT" />
+      <mapping pattern="review_delay_in_minute" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="2020-05-19 Let java service respect container's memory configuration" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="transaction_detail_pool_size" type="PLAIN_TEXT" />
+      <mapping pattern="trading_confirmation_notification_pushtype" type="PLAIN_TEXT" />
+      <mapping pattern="transaction_async_timeout" type="PLAIN_TEXT" />
+      <mapping pattern="job_start_hour" type="PLAIN_TEXT" />
+      <mapping pattern="batch_size" type="PLAIN_TEXT" />
+      <mapping pattern="token_refresh_interval" type="PLAIN_TEXT" />
+      <mapping pattern="notificatoin_batch_wait_interval" type="PLAIN_TEXT" />
+      <mapping pattern="move_undelete_ad_retries" type="PLAIN_TEXT" />
+      <mapping pattern="contentful_environment" type="PLAIN_TEXT" />
+      <mapping pattern="redis_client_name" type="PLAIN_TEXT" />
+      <mapping pattern="hadoop_host" type="PLAIN_TEXT" />
+      <mapping pattern="keytab_secret" type="PLAIN_TEXT" />
       <mapping ext="url-base" type="PLAIN_TEXT" />
       <mapping ext="readtimeoutmillis" type="PLAIN_TEXT" />
       <mapping ext="executiontimeout" type="PLAIN_TEXT" />
@@ -79,8 +79,8 @@
       <mapping ext="time" type="PLAIN_TEXT" />
       <mapping ext="aes" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="password" type="PLAIN_TEXT" />
       <mapping ext="groups" type="PLAIN_TEXT" />
+      <mapping ext="password" type="PLAIN_TEXT" />
       <mapping ext="timeout" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="retry" type="PLAIN_TEXT" />
@@ -90,6 +90,8 @@
       <mapping ext="fr" type="PLAIN_TEXT" />
       <mapping ext="requests" type="PLAIN_TEXT" />
       <mapping ext="connectvialoadbalancer" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="scala" approved="true" type="JAVA" />
     </extensionMap>
   </component>
