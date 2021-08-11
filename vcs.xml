@@ -194,6 +194,14 @@
           <option name="url" value="git@github.es.ecg.tools:ecg-kijiji-ca/feature-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.es.ecg.tools:ecg-kijiji-ca/custom-tab-manager-admin-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.es.ecg.tools:ecg-kijiji-ca/custom-tab-manager-targeting-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/ecg-kijiji-ca" />
