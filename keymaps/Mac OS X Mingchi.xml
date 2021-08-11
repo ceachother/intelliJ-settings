@@ -62,6 +62,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
+  <action id="SonarLint.AnalyzeFiles" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
