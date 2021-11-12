@@ -23,8 +23,8 @@
       <mapping pattern="cdata_api_password" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_host" type="PLAIN_TEXT" />
       <mapping pattern="cassandra_dc_name" type="PLAIN_TEXT" />
-      <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="wait_interval_between_batches" type="PLAIN_TEXT" />
+      <mapping pattern="receiver" type="PLAIN_TEXT" />
       <mapping pattern="synonyms" type="PLAIN_TEXT" />
       <mapping pattern="contentful_hom_sweet_home_lp_content_id" type="PLAIN_TEXT" />
       <mapping pattern="sentry_dsn" type="PLAIN_TEXT" />
